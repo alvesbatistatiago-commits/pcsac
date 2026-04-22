@@ -13616,66 +13616,6 @@
       ],
       "source": "EA",
       "importedAt": 1776851581616
-    },
-    {
-      "matchId": "575942710380257",
-      "opp": "BNAT RONALDO",
-      "score": "3-5",
-      "result": "L",
-      "league": "EA_LEAGUE",
-      "fc26season": "S2",
-      "date": "2026-04-18",
-      "home": false,
-      "players": [
-        {
-          "username": "also_17",
-          "match_rating": 6.8,
-          "goals": 0,
-          "assists": 3,
-          "shots": 0,
-          "passes_made": 138,
-          "passes_att": 0,
-          "tackles_made": 10,
-          "saves": 0,
-          "interceptions": 0,
-          "clearances": 0,
-          "blocks": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "offsides": 0,
-          "fouls_committed": 0,
-          "man_of_match": false,
-          "position": "forward",
-          "vproattr": "NH",
-          "submitted": true,
-          "source": "EA"
-        },
-        {
-          "username": "zCallMeToxic--",
-          "match_rating": 9.8,
-          "goals": 3,
-          "assists": 0,
-          "shots": 6,
-          "passes_made": 32,
-          "passes_att": 0,
-          "tackles_made": 0,
-          "saves": 0,
-          "interceptions": 0,
-          "clearances": 0,
-          "blocks": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "offsides": 0,
-          "fouls_committed": 0,
-          "man_of_match": true,
-          "position": "forward",
-          "vproattr": "NH",
-          "submitted": true,
-          "source": "EA"
-        }
-      ],
-      "source": "EA",
-      "importedAt": 1776851581617
     }
   ]
 }
