@@ -18474,66 +18474,6 @@
       ],
       "source": "EA",
       "importedAt": 1777392192790
-    },
-    {
-      "matchId": "593682245870431",
-      "opp": "la FBI fc",
-      "score": "5-1",
-      "result": "W",
-      "league": "EA_LEAGUE",
-      "fc26season": "S2",
-      "date": "2026-04-26",
-      "home": false,
-      "players": [
-        {
-          "username": "CesChaudMaGueul7",
-          "match_rating": 6.5,
-          "goals": 0,
-          "assists": 5,
-          "shots": 1,
-          "passes_made": 60,
-          "passes_att": 0,
-          "tackles_made": 2,
-          "saves": 0,
-          "interceptions": 0,
-          "clearances": 0,
-          "blocks": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "offsides": 0,
-          "fouls_committed": 0,
-          "man_of_match": false,
-          "position": "midfielder",
-          "vproattr": "NH",
-          "submitted": true,
-          "source": "EA"
-        },
-        {
-          "username": "Gaatssbyy",
-          "match_rating": 10,
-          "goals": 5,
-          "assists": 0,
-          "shots": 6,
-          "passes_made": 6,
-          "passes_att": 0,
-          "tackles_made": 1,
-          "saves": 0,
-          "interceptions": 0,
-          "clearances": 0,
-          "blocks": 0,
-          "yellow_cards": 0,
-          "red_cards": 0,
-          "offsides": 0,
-          "fouls_committed": 0,
-          "man_of_match": true,
-          "position": "forward",
-          "vproattr": "NH",
-          "submitted": true,
-          "source": "EA"
-        }
-      ],
-      "source": "EA",
-      "importedAt": 1777392192790
     }
   ]
 }
